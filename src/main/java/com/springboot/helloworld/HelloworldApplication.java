@@ -8,7 +8,7 @@ public class HelloworldApplication {
 
     public static void main(String[] args) {
         System.out.println("你好吗");
-        System.out.println("解决了一个jbm!");
+        System.out.println("解决了一个jbn!");
         SpringApplication.run(HelloworldApplication.class, args);
     }
 }
