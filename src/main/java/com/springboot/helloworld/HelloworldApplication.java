@@ -8,7 +8,7 @@ public class HelloworldApplication {
 
     public static void main(String[] args) {
         System.out.println("你好吗");
-        System.out.println("解决了一个bug!");
+        System.out.println("解决了一个jb!");
         SpringApplication.run(HelloworldApplication.class, args);
     }
 }
